@@ -5,7 +5,7 @@ It will be mostly HTML/CSS/JS/JQuery/PHP projects as these are the languages I h
 
 - 👀 I’m interested in ...
 
-I am a junior web developer with HTML/CSS/JS/JQuery/PHP training.
+I am a web developer with HTML/CSS/JS/JQuery/PHP training.
 I also have a passion for game shows and the reproduction of these contents, which is why you can also find games on my profile.
 
 - 🌱 I’m currently learning ...
